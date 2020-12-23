@@ -10,7 +10,7 @@
 export default {
     data() {
         return {
-        header: 'Webapp Title much too awesome'
+        header: 'Header Component'
         }
     }
     

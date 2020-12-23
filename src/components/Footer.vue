@@ -8,7 +8,7 @@
 export default {
      data() {
         return {
-        footerText: 'Copyright, facebook, twitter'
+        footerText: 'Footer Component'
         }
     }
 }
